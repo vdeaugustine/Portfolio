@@ -10,7 +10,8 @@
 
 # Finished iOS Apps
 ## Dialed In Golf 
-### [Published to the Apple App Store](https://apps.apple.com/us/app/dialed-in-golf/id1607559987)
+### [Published to the Apple App Store](https://apps.apple.com/us/app/dialed-in-golf/id1607559987) 
+
 ### [Github link](https://github.com/vdeaugustine/DialedInGolfApp)
 <p float="left">
   <img src="https://user-images.githubusercontent.com/32307897/153724192-b38d111c-2d15-48b0-abc4-ed4cc4badfb2.jpeg" width="175" />
@@ -19,7 +20,7 @@
   <img src="https://user-images.githubusercontent.com/32307897/153724186-4531f46e-a3aa-4b3b-906b-6ad3dba6bce0.jpeg" width="175" />
 </p>
 
-## About Dialed In
+## About **Dialed In Golf**
 This was my first iOS app I developed from scratch and published to the App Store. 
 
 ## Purpose
@@ -40,7 +41,7 @@ I developed this app because I love to golf. I believe it solves a proble mthat 
 <br/>
 
 # Baseble: A Baseball Name Word Game
-### [Github](https://github.com/vdeaugustine/BaseballWordle)
+### [Github Link](https://github.com/vdeaugustine/BaseballWordle)
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/32307897/170774251-8cc39686-d2cc-42c4-9e8e-533b2a4d6a18.gif" width="175" /> 
@@ -77,6 +78,9 @@ As Wordle took off in popularity, I noticed there was a demand for variations of
 ## Baseball Draft App
 
 
+## SwiftUI Projects in Progress
+### I love learning the latest technology. And right now one of the most exciting things in iOS development, I believe is SwiftUI. I love seeing the designs and experiences people in the iOS development community 
+
 
 ---
 
@@ -85,8 +89,15 @@ As Wordle took off in popularity, I noticed there was a demand for variations of
 
 # School Projects 
 
+## Piano Keys Imitation App
+<img src="https://user-images.githubusercontent.com/32307897/170810637-1dae6f97-a6ec-4150-88a4-46281319e3a3.gif" width="175" />
 
 ---
+
+# Social Media
+## Active in the iOS Development Twitter community
+<img src= "https://user-images.githubusercontent.com/32307897/170811107-c4716eae-a637-4c0a-8b73-41f68df4f6f0.PNG" width="50"> [My Twitter Account](https://www.twitter.com/VinnieiOS)
+
 
 <br>
 <br>
@@ -100,7 +111,7 @@ As Wordle took off in popularity, I noticed there was a demand for variations of
 
 
  
- ## [Apple Podcasts Link](https://open.spotify.com/show/5iuhwWLiPXHWXKnrkVPjX1)
+ ## [Apple Podcasts Link](https://podcasts.apple.com/us/podcast/freeway-feuds-an-angels-and-dodgers-podcast/id1499440527)
 <body style="text-align: center;">
     <a href="https://podcasts.apple.com/us/podcast/freeway-feuds-an-angels-and-dodgers-podcast/id1499440527">
         <img src=
@@ -120,7 +131,7 @@ As Wordle took off in popularity, I noticed there was a demand for variations of
     </a>
 </body>
  
-
+---
 
 ## Golf
 
