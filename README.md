@@ -8,6 +8,10 @@
     - [Dialed In Golf (Published to App Store)](#dialed-in-golf)
         - [About](#about-dialed-in-golf)
 - [Baseble: A Baseball Name Word Game](#baseble-a-baseball-name-word-game)
+- [My Other Interests](#my-other-interests)
+    - [My Podcast](#my-podcast)
+    - [Golf](#golf)
+    - [Movies and TV Shows](#movies-and-tv-shows)
 
 <br/>
 <br/>
@@ -15,9 +19,32 @@
 
 # Finished iOS Apps
 ## Dialed In Golf 
-### [Published to the Apple App Store](https://apps.apple.com/us/app/dialed-in-golf/id1607559987) 
 
-### [Github link](https://github.com/vdeaugustine/DialedInGolfApp)
+
+<body style="text-align: center;">
+    <a href="https://apps.apple.com/us/app/dialed-in-golf/id1607559987">
+        <img src=
+"https://user-images.githubusercontent.com/32307897/170838107-8c4239a4-1a45-436f-a99d-e18c552a58e0.png"
+             alt="Dialed In Golf" width="80">
+    </a>
+</body>
+<br>
+
+### [Apple App Store Link](https://apps.apple.com/us/app/dialed-in-golf/id1607559987) 
+
+
+<body style="text-align: center;">
+    <a href="https://github.com/vdeaugustine/DialedInGolfApp">
+        <img src=
+"https://user-images.githubusercontent.com/32307897/170837967-4e5a660c-c207-4fd5-9f51-0b6e439683c4.png"
+             alt="Dialed In Golf" width="80">
+    </a>
+</body>
+<br>
+
+### [Github Link](https://github.com/vdeaugustine/DialedInGolfApp)
+
+<br>
 <p float="left">
   <img src="https://user-images.githubusercontent.com/32307897/153724192-b38d111c-2d15-48b0-abc4-ed4cc4badfb2.jpeg" width="175" />
   <img src="https://user-images.githubusercontent.com/32307897/153724191-b34155b3-51a7-4674-a8bb-1ae96f1776aa.jpeg" width="175" /> 
@@ -46,6 +73,7 @@ I developed this app because I love to golf. I believe it solves a proble mthat 
 - There was a fair amount of trial and error when developing the UI and it progressed through different iterations. 
 - I began using Storyboards to build the app but for some of the scenes I used  
 
+- [Back to Table of Contents](#contents)
 ---
 
 <br/>
@@ -70,6 +98,8 @@ As Wordle took off in popularity, I noticed there was a demand for variations of
 
 ## Technologies and Frameworks used in development
  
+
+ - [Back to Table of Contents](#contents)
 ---
 
 <br>
@@ -83,16 +113,18 @@ As Wordle took off in popularity, I noticed there was a demand for variations of
 <img src="https://user-images.githubusercontent.com/32307897/170808980-66b96f01-efd5-47a9-8849-50197a30ca97.gif" width="175" />
 </p>
 
+- [Back to Table of Contents](#contents)
 
 ## Cryptocurrency Library
 
 <img src="https://user-images.githubusercontent.com/32307897/170835988-45e6a510-0533-4975-9c06-df9fbf3ec728.gif" width="175" />
 
+- [Back to Table of Contents](#contents)
 
 ## Redesigning Dialed In Golf
 
 
-
+- [Back to Table of Contents](#contents)
 
 ## SwiftUI Projects in Progress
 ### I love learning the latest technology. And right now one of the most exciting things in iOS development, I believe is SwiftUI. I love seeing the designs and experiences people in the iOS development community. 
@@ -101,6 +133,7 @@ As Wordle took off in popularity, I noticed there was a demand for variations of
 <img src="https://user-images.githubusercontent.com/32307897/170836147-0e840945-829b-49a9-894f-65828dbebab8.gif" width="175" />
 
 
+- [Back to Table of Contents](#contents)
 ---
 
 <br>
@@ -113,6 +146,7 @@ As Wordle took off in popularity, I noticed there was a demand for variations of
 
 <p> This was one of the first apps I ever built. It was for a homework assingment for my iOS development class at CSUF. If you are not failiar with the Piano Keys app on the App Store, the goal is to tap only the black tiles as fast as you can. If you tap the white tiles, the game is over. The app saves the user's high score in NSUserDefaults. 
 
+- [Back to Table of Contents](#contents)
 ---
 
 # Social Media
@@ -124,10 +158,11 @@ As Wordle took off in popularity, I noticed there was a demand for variations of
 <br>
 
 
+- [Back to Table of Contents](#contents)
 
 # My Other Interests
 
-## Baseball
+## My Podcast
 
 <img src="https://user-images.githubusercontent.com/32307897/170810045-1abb06d7-c940-4e09-8e6d-f7cfde4543a5.PNG" width="200" />
 <p> Produce and host my own baseball podcast about the Angels and the Dodgers </p>
@@ -173,3 +208,5 @@ I'm always excited for a round of golf and it has lead me to ideas for several a
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5298bac0-b8bf-4c80-af67-725c1272dbb0/defibp5-8019b091-dae8-426d-8276-7b6d15afcce8.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUyOThiYWMwLWI4YmYtNGM4MC1hZjY3LTcyNWMxMjcyZGJiMFwvZGVmaWJwNS04MDE5YjA5MS1kYWU4LTQyNmQtODI3Ni03YjZkMTVhZmNjZTguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pojNP43h1WC_XSz5oyqkpLbNmCChKMYG38UqYi8b44o" width="400" />
 <br>
 Marvel Cinematic Universe
+
+- [Back to Table of Contents](#contents)
