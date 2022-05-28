@@ -3,6 +3,11 @@
 ## Hi, my name is Vincent. I am a recent college graduate and iOS App developer. I graduated with a BS in Computer Science from California State University, Fullerton. I have been developing iOS apps for 6 months. Here is some more about me.    
 
 ---
+# Contents 
+- [Finished iOS Apps](#finished-ios-apps)
+    - [Dialed In Golf (Published to App Store)](#dialed-in-golf)
+        - [About](#about-dialed-in-golf)
+- [Baseble: A Baseball Name Word Game](#baseble-a-baseball-name-word-game)
 
 <br/>
 <br/>
@@ -35,12 +40,18 @@ I developed this app because I love to golf. I believe it solves a proble mthat 
 - **StoreKit** is used for in-app purchases.
 - **AVFoundation** is used for sound effects. 
 
+## Challenges faced during development and lessons learned
+- This app tought me about strategies to use while developing independently. 
+- When I began, I had an idea in my head about what I wanted the app to do, but I wasn't sure how I was going to make it look. 
+- There was a fair amount of trial and error when developing the UI and it progressed through different iterations. 
+- I began using Storyboards to build the app but for some of the scenes I used  
+
 ---
 
 <br/>
 <br/>
 
-# Baseble: A Baseball Name Word Game
+# Baseble A Baseball Name Word Game
 ### [Github Link](https://github.com/vdeaugustine/BaseballWordle)
 
 <p float="left">
@@ -51,7 +62,7 @@ I developed this app because I love to golf. I believe it solves a proble mthat 
 </p>
 
 ## About Baseble
-As Wordle took off in popularity, I noticed there was a demand for variations of it, and especially in the baseball fan community on Twitter and Reddit. I combined my love for baseball and iOS app development into a fun game that helped me learn about animations, JSON parsing, and using third party libraries with Swift Package Manager.
+As Wordle took off in popularity, I noticed there was a demand for variations of it, and especially in the sports fan community on Twitter and Reddit. I combined my love for baseball and iOS app development into a fun game that helped me learn about animations, JSON parsing, and using third party libraries with Swift Package Manager.
 
 ## Purpose
 
@@ -66,6 +77,8 @@ As Wordle took off in popularity, I noticed there was a demand for variations of
 
 # In Progress 
 
+
+## Baseball Draft App
 <p float="middle">
 <img src="https://user-images.githubusercontent.com/32307897/170808980-66b96f01-efd5-47a9-8849-50197a30ca97.gif" width="175" />
 </p>
@@ -73,13 +86,19 @@ As Wordle took off in popularity, I noticed there was a demand for variations of
 
 ## Cryptocurrency Library
 
+<img src="https://user-images.githubusercontent.com/32307897/170835988-45e6a510-0533-4975-9c06-df9fbf3ec728.gif" width="175" />
+
+
 ## Redesigning Dialed In Golf
 
-## Baseball Draft App
+
 
 
 ## SwiftUI Projects in Progress
-### I love learning the latest technology. And right now one of the most exciting things in iOS development, I believe is SwiftUI. I love seeing the designs and experiences people in the iOS development community 
+### I love learning the latest technology. And right now one of the most exciting things in iOS development, I believe is SwiftUI. I love seeing the designs and experiences people in the iOS development community. 
+
+
+<img src="https://user-images.githubusercontent.com/32307897/170836147-0e840945-829b-49a9-894f-65828dbebab8.gif" width="175" />
 
 
 ---
@@ -92,6 +111,8 @@ As Wordle took off in popularity, I noticed there was a demand for variations of
 ## Piano Keys Imitation App
 <img src="https://user-images.githubusercontent.com/32307897/170810637-1dae6f97-a6ec-4150-88a4-46281319e3a3.gif" width="175" />
 
+<p> This was one of the first apps I ever built. It was for a homework assingment for my iOS development class at CSUF. If you are not failiar with the Piano Keys app on the App Store, the goal is to tap only the black tiles as fast as you can. If you tap the white tiles, the game is over. The app saves the user's high score in NSUserDefaults. 
+
 ---
 
 # Social Media
@@ -101,6 +122,8 @@ As Wordle took off in popularity, I noticed there was a demand for variations of
 
 <br>
 <br>
+
+
 
 # My Other Interests
 
@@ -134,6 +157,13 @@ As Wordle took off in popularity, I noticed there was a demand for variations of
 ---
 
 ## Golf
+
+
+
+<img src="https://user-images.githubusercontent.com/32307897/170836274-a5cf5575-61c7-4a93-b36e-8d541a6c181b.jpg" width="300" />
+
+I started golfing casually in high school. But I started taking it much more seriously at the beginning of 2021. My average score is usually somewhere around +10 to +12
+I'm always excited for a round of golf and it has lead me to ideas for several apps, one of which led to the development of Dialed In Golf. 
 
 ## Movies and TV Shows
 
