@@ -37,7 +37,7 @@
     <a href="https://github.com/vdeaugustine/DialedInGolfApp">
         <img src=
 "https://user-images.githubusercontent.com/32307897/170837967-4e5a660c-c207-4fd5-9f51-0b6e439683c4.png"
-             alt="Dialed In Golf" width="80">
+             alt="Dialed In Golf Github" width="80">
     </a>
 </body>
 <br>
@@ -80,6 +80,16 @@ I developed this app because I love to golf. I believe it solves a proble mthat 
 <br/>
 
 # Baseble A Baseball Name Word Game
+
+<body style="text-align: center;">
+    <a href="https://github.com/vdeaugustine/BaseballWordle">
+        <img src=
+"https://user-images.githubusercontent.com/32307897/170837967-4e5a660c-c207-4fd5-9f51-0b6e439683c4.png"
+             alt="Baseble Github" width="80">
+    </a>
+</body>
+<br>
+
 ### [Github Link](https://github.com/vdeaugustine/BaseballWordle)
 
 <p float="left">
@@ -111,7 +121,24 @@ As Wordle took off in popularity, I noticed there was a demand for variations of
 ## Baseball Draft App
 <p float="middle">
 <img src="https://user-images.githubusercontent.com/32307897/170808980-66b96f01-efd5-47a9-8849-50197a30ca97.gif" width="175" />
+<img src="https://user-images.githubusercontent.com/32307897/171047440-fedd6046-d04d-41c4-a5f2-7fd01f8fd592.gif" width="175" />
 </p>
+
+
+
+## Purpose
+- When you are drafting a team for fantasy baseball, should you draft a second baseman with 450 projected points or a first baseman with 550 projected points? What if the other second basemen available average only 300 points and the other first basemen average 500 points? 
+
+- This app is designed to take that confusion out of it for you. Every player's projected points are weighted against the average at that position. That way you know which player is more valuable due to "position scarcity."
+
+- Other features:
+    - Search bar for players
+    - Stats for each player from different projection systems including [ATC Projection System](https://fantasy.fangraphs.com/the-atc-projection-system/) and [ZiPS Projection System](https://blogs.fangraphs.com/category/2022-zips-projections/). Both found on [Fangraphs](https://fangraphs.com)
+    - Trade Analysis tool 
+        - Select the players that each team would give up and it will give you an analysis of the trade, telling you which team will win the trade and by how much each team will benefit. 
+
+
+## Technologies and Frameworks used in development
 
 - [Back to Table of Contents](#contents)
 
@@ -131,6 +158,8 @@ As Wordle took off in popularity, I noticed there was a demand for variations of
 
 
 <img src="https://user-images.githubusercontent.com/32307897/170836147-0e840945-829b-49a9-894f-65828dbebab8.gif" width="175" />
+
+This is the same concept as the Coin Lib app that I am working on above, however this one is built in SwiftUI. 
 
 
 - [Back to Table of Contents](#contents)
@@ -197,7 +226,7 @@ As Wordle took off in popularity, I noticed there was a demand for variations of
 
 <img src="https://user-images.githubusercontent.com/32307897/170836274-a5cf5575-61c7-4a93-b36e-8d541a6c181b.jpg" width="300" />
 
-I started golfing casually in high school. But I started taking it much more seriously at the beginning of 2021. My average score is usually somewhere around +10 to +12
+I started golfing here and there in high school. But I started taking it much more seriously at the beginning of 2021. My average score is usually somewhere around +10 to +12
 I'm always excited for a round of golf and it has lead me to ideas for several apps, one of which led to the development of Dialed In Golf. 
 
 ## Movies and TV Shows
