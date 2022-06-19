@@ -1,6 +1,6 @@
 # Vincent DeAugustine: iOS Developer
 
-## Hi, my name is Vincent. I am a recent college graduate and iOS App developer. I graduated with a BS in Computer Science from California State University, Fullerton. I have been developing iOS apps for 6 months. Here is some more about me.    
+## Hi, my name is Vincent. I am a recent college graduate and iOS App developer. I graduated with a BS in Computer Science from California State University, Fullerton. I have been developing iOS apps for 6 months. Herhttps://tenor.com/view/annoyed-deep-stare-serious-dwight-dunder-mifflin-gif-15666780e is some more about me.    
 
 ---
 # Contents 
@@ -92,6 +92,9 @@ I developed this app because I love to golf. I believe it solves a proble mthat 
 
 ### [Github Link](https://github.com/vdeaugustine/BaseballWordle)
 
+
+
+
 <p float="left">
   <img src="https://user-images.githubusercontent.com/32307897/170774251-8cc39686-d2cc-42c4-9e8e-533b2a4d6a18.gif" width="175" /> 
   <img src="https://user-images.githubusercontent.com/32307897/170769781-408b8243-7025-4cbf-8a9b-2987af74b0c6.jpeg" width="175" />
@@ -101,8 +104,6 @@ I developed this app because I love to golf. I believe it solves a proble mthat 
 
 ## About Baseble
 As Wordle took off in popularity, I noticed there was a demand for variations of it, and especially in the sports fan community on Twitter and Reddit. I combined my love for baseball and iOS app development into a fun game that helped me learn about animations, JSON parsing, and using third party libraries with Swift Package Manager.
-
-## Purpose
 
 
 
@@ -146,9 +147,15 @@ As Wordle took off in popularity, I noticed there was a demand for variations of
 
 <img src="https://user-images.githubusercontent.com/32307897/170835988-45e6a510-0533-4975-9c06-df9fbf3ec728.gif" width="175" />
 
+The purpose of this application is to demonstrate the ability to use REST API calls in swift. The program uses the CoinLib API to fetch information about any cryptocurrency listed on the market. The user can also create their own wallet and keep track of certain coins they own. 
+
 - [Back to Table of Contents](#contents)
 
 ## Redesigning Dialed In Golf
+
+<img src="https://user-images.githubusercontent.com/32307897/174500075-b264aabd-cfd1-41b1-b0a1-ae1fa2555a7e.gif" width="175" /> 
+
+I built and published Dialed in Golf to gain experience using various skills in UIKit like implementing StoreKit, CoreData, and AVFoundation. I knew I wanted to upgrade the UI though. I figured SwiftUI would be a perfect opportunity to accomplish this. So I built the entire app from the ground up again with a completely different user experience using the SwiftUI framework. 
 
 
 - [Back to Table of Contents](#contents)
