@@ -1,6 +1,6 @@
 # Vincent DeAugustine: iOS Developer
 
-## Hi, my name is Vincent. I am a recent college graduate and iOS App developer. I graduated with a BS in Computer Science from California State University, Fullerton. I have been developing iOS apps for 6 months. Herhttps://tenor.com/view/annoyed-deep-stare-serious-dwight-dunder-mifflin-gif-15666780e is some more about me.    
+## Hi, my name is Vincent. I am a recent college graduate and iOS App developer. I graduated with a BS in Computer Science from California State University, Fullerton. I have been developing iOS apps for 6 months. Here is some more about me.    
 
 ---
 # Contents 
