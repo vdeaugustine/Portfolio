@@ -1,6 +1,6 @@
 # Vincent DeAugustine: iOS Developer
 
-## Hi, my name is Vincent. I am a recent college graduate and iOS App developer. I graduated with a BS in Computer Science from California State University, Fullerton. I have been developing iOS apps for 6 months. Here is some more about me.    
+## Hi, my name is Vincent. I am a recent college graduate and iOS App developer. I graduated with a BS in Computer Science from California State University, Fullerton. I have been developing iOS apps for 6 months. Here is some more about me and my projects.    
 
 ---
 # Contents 
@@ -73,6 +73,23 @@ I developed this app because I love to golf. I believe it solves a proble mthat 
 - There was a fair amount of trial and error when developing the UI and it progressed through different iterations. 
 - I began using Storyboards to build the app but for some of the scenes I used  
 
+
+
+
+# Redesign
+
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/32307897/175080021-f8ffa951-4f2c-4a67-9957-ff23351a26f6.png" width="175" />
+  <img src="https://user-images.githubusercontent.com/32307897/175080048-99886cff-7e05-40fd-a442-5a814c3f7de4.png" width="175" /> 
+</p>
+
+  ### Purpose of Redesign:
+  - When I was building the golf app for the first time, I was in a hurry to get it finished and I was eager to publish it to the App Store. 
+  - After it got accepted to the App Store, I knew I didn't like the UI design. I wrote up what I wanted the design to look like if I gave it enough time. 
+  - I knew I could accomplish this design in UIKit but I thought it would be a great opportunity to finally learn the SwiftUI framework. 
+  - So after finalizing what I wanted it to look like, I took on the task of rebuilding the app from scratch using SwiftUI. 
+  - It took longer than it would have if I just redesigned it using the same UIKit codebase that I already had, but it was a good learning experience as now I am comfortable with data flow in SwiftUI and I am confident in my ability to tackle any design using SwiftUI. 
+
 - [Back to Table of Contents](#contents)
 ---
 
@@ -102,6 +119,8 @@ I developed this app because I love to golf. I believe it solves a proble mthat 
   <img src="https://user-images.githubusercontent.com/32307897/170770066-b6eedc94-ffa5-47e5-965d-7e2f409834eb.jpeg" width="175" />
 </p>
 
+### Framework: <u><b>UIKit</b></u>
+
 ## About Baseble
 As Wordle took off in popularity, I noticed there was a demand for variations of it, and especially in the sports fan community on Twitter and Reddit. I combined my love for baseball and iOS app development into a fun game that helped me learn about animations, JSON parsing, and using third party libraries with Swift Package Manager.
 
@@ -125,7 +144,7 @@ As Wordle took off in popularity, I noticed there was a demand for variations of
 <img src="https://user-images.githubusercontent.com/32307897/171047440-fedd6046-d04d-41c4-a5f2-7fd01f8fd592.gif" width="175" />
 </p>
 
-
+### Framework: <u><b>UIKit</b></u>
 
 ## Purpose
 - When you are drafting a team for fantasy baseball, should you draft a second baseman with 450 projected points or a first baseman with 550 projected points? What if the other second basemen available average only 300 points and the other first basemen average 500 points? 
@@ -233,16 +252,31 @@ This is the same concept as the Coin Lib app that I am working on above, however
 
 <img src="https://user-images.githubusercontent.com/32307897/170836274-a5cf5575-61c7-4a93-b36e-8d541a6c181b.jpg" width="300" />
 
-I started golfing here and there in high school. But I started taking it much more seriously at the beginning of 2021. My average score is usually somewhere around +10 to +12
-I'm always excited for a round of golf and it has lead me to ideas for several apps, one of which led to the development of Dialed In Golf. 
+I started golfing a little bit in high school, but I didn't start taking it seriously until around the beginning of 2021. My average score is usually somewhere around +10 to +12.
+I am always excited for a round of golf. It is a great way to get outside and have fun with some friends, and even meet new people. 
 
 ## Movies and TV Shows
-
-
-
 
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5298bac0-b8bf-4c80-af67-725c1272dbb0/defibp5-8019b091-dae8-426d-8276-7b6d15afcce8.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUyOThiYWMwLWI4YmYtNGM4MC1hZjY3LTcyNWMxMjcyZGJiMFwvZGVmaWJwNS04MDE5YjA5MS1kYWU4LTQyNmQtODI3Ni03YjZkMTVhZmNjZTguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pojNP43h1WC_XSz5oyqkpLbNmCChKMYG38UqYi8b44o" width="400" />
 <br>
 Marvel Cinematic Universe
+
+
+<p float="left">
+  <img src="https://c4.wallpaperflare.com/wallpaper/743/1018/523/interstellar-2014-wallpaper-preview.jpg" width="300" /> 
+</p>
+
+## Currently Reading
+<p float="left">
+  <img src="https://images-na.ssl-images-amazon.com/images/I/9168wNMBk1L.jpg" width="150" /> 
+</p>
+
+
+## Recently Read
+<p float="left">
+  <img src="https://go.darrenhardy.com/_next/static/images/book-new-small-360-a67170c3e8fb54e2949a93942c6a9777.png" width="150" /> 
+</p>
+
+
 
 - [Back to Table of Contents](#contents)
