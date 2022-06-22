@@ -82,6 +82,7 @@ I developed this app because I love to golf. I believe it solves a proble mthat 
   <img src="https://user-images.githubusercontent.com/32307897/175080021-f8ffa951-4f2c-4a67-9957-ff23351a26f6.png" width="175" />
   <img src="https://user-images.githubusercontent.com/32307897/175080048-99886cff-7e05-40fd-a442-5a814c3f7de4.png" width="175" /> 
 </p>
+### Framework: <u><b>SwiftUI</b></u>
 
   ### Purpose of Redesign:
   - When I was building the golf app for the first time, I was in a hurry to get it finished and I was eager to publish it to the App Store. 
@@ -89,6 +90,7 @@ I developed this app because I love to golf. I believe it solves a proble mthat 
   - I knew I could accomplish this design in UIKit but I thought it would be a great opportunity to finally learn the SwiftUI framework. 
   - So after finalizing what I wanted it to look like, I took on the task of rebuilding the app from scratch using SwiftUI. 
   - It took longer than it would have if I just redesigned it using the same UIKit codebase that I already had, but it was a good learning experience as now I am comfortable with data flow in SwiftUI and I am confident in my ability to tackle any design using SwiftUI. 
+  - The redesign is almost finished and should be published as an update to the app on the App Store soon.
 
 - [Back to Table of Contents](#contents)
 ---
@@ -127,7 +129,8 @@ As Wordle took off in popularity, I noticed there was a demand for variations of
 
 
 ## Technologies and Frameworks used in development
- 
+- In order to have the word of the day be the same for every user of the app, I used Firebase.
+- The database would be updated every day at midnight and the app would make a REST API call to get the word using the Firebase SDK.
 
  - [Back to Table of Contents](#contents)
 ---
@@ -166,18 +169,12 @@ As Wordle took off in popularity, I noticed there was a demand for variations of
 
 <img src="https://user-images.githubusercontent.com/32307897/170835988-45e6a510-0533-4975-9c06-df9fbf3ec728.gif" width="175" />
 
+### Framework: <u><b>UIKit</b></u>
+
 The purpose of this application is to demonstrate the ability to use REST API calls in swift. The program uses the CoinLib API to fetch information about any cryptocurrency listed on the market. The user can also create their own wallet and keep track of certain coins they own. 
 
-- [Back to Table of Contents](#contents)
 
-## Redesigning Dialed In Golf
-
-<img src="https://user-images.githubusercontent.com/32307897/174500075-b264aabd-cfd1-41b1-b0a1-ae1fa2555a7e.gif" width="175" /> 
-
-I built and published Dialed in Golf to gain experience using various skills in UIKit like implementing StoreKit, CoreData, and AVFoundation. I knew I wanted to upgrade the UI though. I figured SwiftUI would be a perfect opportunity to accomplish this. So I built the entire app from the ground up again with a completely different user experience using the SwiftUI framework. 
-
-
-- [Back to Table of Contents](#contents)
+  [Back to Table of Contents](#contents)
 
 ## SwiftUI Projects in Progress
 ### I love learning the latest technology. And right now one of the most exciting things in iOS development, I believe is SwiftUI. I love seeing the designs and experiences people in the iOS development community. 
@@ -255,22 +252,30 @@ This is the same concept as the Coin Lib app that I am working on above, however
 I started golfing a little bit in high school, but I didn't start taking it seriously until around the beginning of 2021. My average score is usually somewhere around +10 to +12.
 I am always excited for a round of golf. It is a great way to get outside and have fun with some friends, and even meet new people. 
 
-## Movies and TV Shows
+## Favorite Movies
 
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5298bac0-b8bf-4c80-af67-725c1272dbb0/defibp5-8019b091-dae8-426d-8276-7b6d15afcce8.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUyOThiYWMwLWI4YmYtNGM4MC1hZjY3LTcyNWMxMjcyZGJiMFwvZGVmaWJwNS04MDE5YjA5MS1kYWU4LTQyNmQtODI3Ni03YjZkMTVhZmNjZTguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pojNP43h1WC_XSz5oyqkpLbNmCChKMYG38UqYi8b44o" width="400" />
 <br>
-Marvel Cinematic Universe
 
+### Anything in the Marvel Cinematic Universe
 
+<br>
+<br>
 <p float="left">
   <img src="https://c4.wallpaperflare.com/wallpaper/743/1018/523/interstellar-2014-wallpaper-preview.jpg" width="300" /> 
 </p>
+
+---
+
+
+
 
 ## Currently Reading
 <p float="left">
   <img src="https://images-na.ssl-images-amazon.com/images/I/9168wNMBk1L.jpg" width="150" /> 
 </p>
 
+---
 
 ## Recently Read
 <p float="left">
